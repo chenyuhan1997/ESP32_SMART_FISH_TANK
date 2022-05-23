@@ -1,0 +1,2 @@
+# ESP32_SMART_FISH_TANK
+Using ESP32, a smart fish tank based on FREERTOS for feeding, oxygen supply, temperature measurement and heating. The web page can perform timing operations and customer options, and display temperature measurement data in real time. In conjunction with the open source project of water quality assessment of ESP32CAM that I uploaded, a remote monitoring and water quality assessment function can be added on the basis of the smart fish tank, which is especially user-friendly.
